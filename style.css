@@ -13,3 +13,19 @@ button {
          background-color: rgb(116, 194, 139);  
          font-family: "Indie Flower", cursive;
 }
+
+
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display:block ;
+}
+
+main {
+    max-width: 100%;
+}
+
+
+
+
