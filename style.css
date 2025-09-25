@@ -2,10 +2,10 @@ body {
     background-color: rgba(155, 255, 172, 0.74);
     font-family: "Indie Flower", cursive;
     display:flex;
-    justify-content: center;
-    align-items: center;
+    justify-content:center;
+    align-items:center;
     height: 700px;
-    margin: 0;
+    margin: 10px;
 
 }
 
@@ -21,11 +21,13 @@ button {
 .passo.ativo{
     display:block ;
 }
-
 main {
+    text-align: center;
     max-width: 100%;
 }
 
-
+img{
+    max-width: 90%;
+}
 
 
